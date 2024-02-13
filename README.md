@@ -1,3 +1,7 @@
+# About this fork
+
+This GitHub repository contains the full sequence information of antibodies registered in the original PLAbDab database, included as a CSV file. While the original database only included sequences for VH and VL, I was interested in sequences related to the Fc or hinge regions and ultimately obtained them through web scraping. However, a few entries could not be found and were left blank. I hope this will be useful to others with similar interests.
+
 ---
 
 <div align="center">    
